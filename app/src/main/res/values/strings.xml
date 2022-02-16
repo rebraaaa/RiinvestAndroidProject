@@ -1,0 +1,78 @@
+<resources>
+    <string name="app_name">QuizAppRiinvest</string>
+    <string name="Score">Score: 0/10</string>
+    <string name="question_nr">Question 1/10</string>
+    <string name="question_0">What is the most watched Movie of 2021?</string>
+    <string name="question_0_A">Spider‑Man: No Way Home</string>
+    <string name="question_0_B">Dune</string>
+    <string name="question_0_C">Venom: Carnage</string>
+    <string name="question_0_D">The Green Knight</string>
+    <string name="question_0_answer">Spider‑Man: No Way Home</string>
+
+    <string name="question_1">What does “www” stand for in a website browser?</string>
+    <string name="question_1_A">Web-Wide-Wlan</string>
+    <string name="question_1_B">World-Wide-Web</string>
+    <string name="question_1_C">WestWorldWarranty</string>
+    <string name="question_1_D">well-written-words</string>
+    <string name="question_1_answer">World-Wide-Web</string>
+
+    <string name="question_2">What is "cynophobia"?</string>
+    <string name="question_2_A">Fear of Heights</string>
+    <string name="question_2_B">Fear of Speeding</string>
+    <string name="question_2_C">Fear of Dogs</string>
+    <string name="question_2_D">Fear of Water</string>
+    <string name="question_2_answer">Fear of Dogs</string>
+
+    <string name="question_3">Who named the Pacific Ocean?</string>
+    <string name="question_3_A">Ferdinand Magellan</string>
+    <string name="question_3_B">Marco Polo</string>
+    <string name="question_3_C">Hashim Thaqi</string>
+    <string name="question_3_D">Christopher Columbus</string>
+    <string name="question_3_answer">Ferdinand Magellan</string>
+
+    <string name="question_4">What is the name of the biggest technology company in South Korea?</string>
+    <string name="question_4_A">Samsung</string>
+    <string name="question_4_B">Huawei</string>
+    <string name="question_4_C">Lenovo</string>
+    <string name="question_4_D">Nvidia</string>
+    <string name="question_4_answer">Samsung</string>
+
+    <string name="question_5">Which animal can be seen on the Porsche logo?</string>
+    <string name="question_5_A">Tiger</string>
+    <string name="question_5_B">Deer</string>
+    <string name="question_5_C">Bull</string>
+    <string name="question_5_D">Horse</string>
+    <string name="question_5_answer">Horse</string>
+
+    <string name="question_6">What is the name of the largest ocean on earth?</string>
+    <string name="question_6_A">Pacific Ocean</string>
+    <string name="question_6_B">Indian Ocean</string>
+    <string name="question_6_C">Atlantic Ocean</string>
+    <string name="question_6_D">Southern Ocean</string>
+    <string name="question_6_answer">Pacific Ocean</string>
+
+    <string name="question_7">Which is the only edible food that never goes bad?</string>
+    <string name="question_7_A">Pasul</string>
+    <string name="question_7_B">Rice</string>
+    <string name="question_7_C">Pizza</string>
+    <string name="question_7_D">Honey</string>
+    <string name="question_7_answer">Honey</string>
+
+    <string name="question_8">Which country invented ice cream?</string>
+    <string name="question_8_A">United States of America</string>
+    <string name="question_8_B">China</string>
+    <string name="question_8_C">Spain</string>
+    <string name="question_8_D">France</string>
+    <string name="question_8_answer">China</string>
+
+    <string name="question_9">Which country won the first-ever soccer World Cup in 1930?</string>
+    <string name="question_9_A">Spain</string>
+    <string name="question_9_B">Uruguay</string>
+    <string name="question_9_C">Germany</string>
+    <string name="question_9_D">Italy</string>
+    <string name="question_9_answer">Uruguay</string>
+    <string name="selectedoption">SelectedOption</string>
+    <string name="correct_answer">Correct Answer</string>
+
+
+</resources>
